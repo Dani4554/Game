@@ -1,4 +1,12 @@
 
+#keyboardtrigger{
+	position: relative;
+	top: 100px;
+	background-color: transparent;
+	border:transparent;
+	height: 0px;
+	z-index: 0;
+}
 
 #position{
 	position: fixed;
