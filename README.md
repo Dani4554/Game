@@ -1,2 +1,2 @@
-# Psychic-Game
+# \Game
 Javascript Assignment
